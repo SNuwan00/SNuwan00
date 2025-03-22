@@ -1,3 +1,5 @@
+![GitHub Cover](https://github.com/adithyadewmina/adithyadewmina/blob/main/cover.png)
+
 <h4> Hey there! <img src="https://github.com/SNuwan00/SNuwan00/blob/main/githubTemplateGifs/wave.gif" width="30px"></h4>
 
 I'm [Sanjuka Sri nuwan](https:///), an enthusiastic undergraduate at the University of Ruhuna, majoring in computer science with a focus on software engineering. With a passion for coding and solving complex challenges, I am dedicated to mastering new technologies. I aspire to shape my future in the dynamic realm of computer science through practical experience and continuous learning.
