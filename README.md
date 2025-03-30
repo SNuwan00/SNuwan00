@@ -57,7 +57,7 @@ I'm [Sanjuka Sri nuwan](https:///), an enthusiastic undergraduate at the Univers
    <!--  -->
    <!-- [![Medium Badge](https://img.shields.io/badge/-@anushka_verma-000000?style=flat&labelColor=000000&logo=Medium&link=https://anushka-verma.medium.com/)](https://anushka-verma.medium.com/) -->
    [![Website Badge](https://img.shields.io/badge/-nuwan.csbodima.lk-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://nuwan.csbodima.lk/)](https://nuwan.csbodima.lk/)
-   [![Linkedin Badge](https://img.shields.io/badge/-sanjuka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sanjuka-sri-nuwan-7031a229a)](https://linkedin.com/in/sanjuka-sri-nuwan-7031a229a)
+   [![LinkedIn: sanjuka](https://img.shields.io/badge/-sanjuka-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sanjuka-sri-nuwan-7031a229a)](https://linkedin.com/in/sanjuka-sri-nuwan-7031a229a)
    [![Gmail Badge](https://img.shields.io/badge/-sanjuka?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanjukasrinuwan@gmail.com)](mailto:sanjukaseinuwan@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@sanjuka-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sanjuka_sri_nuwan?igsh=MTM4eXY5MHFqNTZmYw%3D%3D&utm_source=qr)](https://www.instagram.com/sanjuka_sri_nuwan?igsh=MTM4eXY5MHFqNTZmYw%3D%3D&utm_source=qr)
    [![Facebook Badge](https://img.shields.io/badge/-sanjuka_sri_nuwan-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/share/1Hxn6orVSL/?mibextid=wwXIfr )](https://www.facebook.com/share/1Hxn6orVSL/?mibextid=wwXIfr )
