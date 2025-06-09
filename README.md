@@ -6,7 +6,7 @@ I'm [Sanjuka Sri nuwan](https:///), an enthusiastic undergraduate at the Univers
 
  ---
  
-**Currently I am working ...**
+**Currently I am looking for an internship...**
 <!--
 - <div>
     <img width="250" height="95" align='left' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/hopsteiner.png" >
