@@ -1,4 +1,4 @@
-![GitHub Cover](https://github.com/adithyadewmina/adithyadewmina/blob/main/cover.png)
+![GitHub Cover](githubcover.jpg)
 
 <h4> Hey there! <img src="https://github.com/SNuwan00/SNuwan00/blob/main/githubTemplateGifs/wave.gif" width="30px"></h4>
 
