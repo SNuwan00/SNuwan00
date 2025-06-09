@@ -2,7 +2,7 @@
 
 <h4> Hey there! <img src="https://github.com/SNuwan00/SNuwan00/blob/main/githubTemplateGifs/wave.gif" width="30px"></h4>
 
-I'm [Sanjuka Sri nuwan](https:///), an enthusiastic undergraduate at the University of Ruhuna, majoring in computer science with a focus on software engineering. With a passion for coding and solving complex challenges, I am dedicated to mastering new technologies. I aspire to shape my future in the dynamic realm of computer science through practical experience and continuous learning.
+I'm [Sanjuka Sri nuwan](https://linkedin.com/in/sanjuka-sri-nuwan-7031a229a), an enthusiastic undergraduate at the University of Ruhuna, majoring in computer science with a focus on software engineering. With a passion for coding and solving complex challenges, I am dedicated to mastering new technologies. I aspire to shape my future in the dynamic realm of computer science through practical experience and continuous learning.
 
  ---
  
@@ -63,11 +63,11 @@ I'm [Sanjuka Sri nuwan](https:///), an enthusiastic undergraduate at the Univers
    [![Facebook Badge](https://img.shields.io/badge/-sanjuka_sri_nuwan-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/share/1Hxn6orVSL/?mibextid=wwXIfr )](https://www.facebook.com/share/1Hxn6orVSL/?mibextid=wwXIfr )
   <!-- [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles) -->
 
-   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa) 
+   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
    
   <p align="center">
     Show ❤️ by starring and forking repositories you find good!
-  </p> -->
+  </p>
 </p>
 
 <div align="right">
